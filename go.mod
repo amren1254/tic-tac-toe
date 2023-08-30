@@ -1,3 +1,3 @@
 module tic-tac-toe
 
-go 1.21.0
+go 1.20.0
