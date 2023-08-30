@@ -20,5 +20,5 @@
 # Go workspace file
 go.work
 .vscode
-go.mod
+#go.mod
 tic-tac-toe
